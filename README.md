@@ -1,2 +1,2 @@
-# THP_S2J4_BigData
-exercices S2J4 Big data
+# THP_S1J4_BigData
+exercices S1J4 Big data
